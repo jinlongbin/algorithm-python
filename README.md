@@ -9,3 +9,6 @@ Algorithm practise for coding interview
   * [1978-소수찾기](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/1978-소수찾기.md)
   * [1929-소수구하기](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/1929-소수구하기.md)
   * [6588-골드바흐의추측](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/6588-골드바흐의추측.md)
+  * [10872-팩토리얼](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/10872-팩토리얼.md)
+  * [1676-팩토리얼0의개수](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/1676-팩토리얼0의개수.md)
+  * [1676-팩토리얼0의개수](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/1676-팩토리얼0의개수.md)
