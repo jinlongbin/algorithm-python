@@ -2,6 +2,8 @@
 Algorithm practise for coding interview
 
 ## [Baekjoon](https://www.acmicpc.net/)
+* [자료구조](https://github.com/jinlongbin/algorithm-python/tree/main/Baekjoon/자료구조)
+  * [10828-스택](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/10828-스택.md)
 * [수학](https://github.com/jinlongbin/algorithm-python/tree/main/Baekjoon/수학)
   * [10430-나머지](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/10430-나머지.md)
   * [2609-최대공약수와최소공배수](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/2609-최대공약수와최소공배수.md)
