@@ -13,6 +13,8 @@ Algorithm practise for coding interview
   * [10866-덱](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/10866-덱.md)
   * [17413-단어뒤집기2](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/17413-단어뒤집기2.md)
   * [10799-쇠막대기](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/10799-쇠막대기.md)
+  * [17298-오큰수](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/17298-오큰수.md)
+  * [17299-오등큰수](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/17299-오등큰수.md)
 * [수학](https://github.com/jinlongbin/algorithm-python/tree/main/Baekjoon/수학)
   * [10430-나머지](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/10430-나머지.md)
   * [2609-최대공약수와최소공배수](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/2609-최대공약수와최소공배수.md)
