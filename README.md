@@ -15,6 +15,8 @@ Algorithm practise for coding interview
   * [10799-쇠막대기](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/10799-쇠막대기.md)
   * [17298-오큰수](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/17298-오큰수.md)
   * [17299-오등큰수](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/17299-오등큰수.md)
+  * [1918-후위표기식](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/1918-후위표기식.md)
+  * [1935-후위표기식2](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/자료구조/1935-후위표기식2.md)
 * [수학](https://github.com/jinlongbin/algorithm-python/tree/main/Baekjoon/수학)
   * [10430-나머지](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/10430-나머지.md)
   * [2609-최대공약수와최소공배수](https://github.com/jinlongbin/algorithm-python/blob/main/Baekjoon/수학/2609-최대공약수와최소공배수.md)
