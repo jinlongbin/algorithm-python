@@ -11,3 +11,4 @@
   * [11-3 문자열 뒤집기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-3%20문자열%20뒤집기.md)
   * [11-4 만들 수 없는 금액](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-4%20만들%20수%20없는%20금액.md)
   * [11-5 볼링공 고르기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-5%20볼링공%20고르기.md)
+  * [11-6 무지의 먹방 라이브](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-5%20무지의%20먹방%20라이브.md)
