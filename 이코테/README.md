@@ -1,4 +1,4 @@
-## [이것이 코딩 테스트다](http://www.yes24.com/Product/Goods/91433923)
+# [이것이 코딩 테스트다](http://www.yes24.com/Product/Goods/91433923)
 
 * [03. 그리디](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/03.%20그리디)
   * [3-1 거스름돈](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/03.%20그리디/3-1%20거스름돈.md)
@@ -24,3 +24,4 @@
   * [12-1 럭키 스트레이트](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-1%20럭키%20스트레이트.md)
   * [12-2 문자열 재정렬](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-2%20문자열%20재정렬.md)
   * [12-3 문자열 압축](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-3%20문자열%20압축.md)
+  * [12-4 문자열 압축](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-4%20자물쇠와%20열쇠.md)
