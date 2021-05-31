@@ -22,3 +22,5 @@
   
 * [12. 구현 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/12.%20구현%20문제)
   * [12-1 럭키 스트레이트](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-1%20럭키%20스트레이트.md)
+  * [12-2 문자열 재정렬](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-2%20문자열%20재정렬.md)
+  * [12-3 문자열 압축](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-3%20문자열%20압축.md)
