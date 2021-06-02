@@ -25,3 +25,6 @@
   * [12-2 문자열 재정렬](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-2%20문자열%20재정렬.md)
   * [12-3 문자열 압축](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-3%20문자열%20압축.md)
   * [12-4 문자열 압축](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-4%20자물쇠와%20열쇠.md)
+  * [12-5 뱀](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-5%20뱀.md)
+  * [12-6 치킨 배달](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-6%20치킨%20배달.md)
+  * [12-7 외벽 점검](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-7%20외벽%20점검.md)
