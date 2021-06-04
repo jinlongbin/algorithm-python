@@ -15,7 +15,7 @@
 * [05. DFS BFS](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/05.%20DFS%20BFS)
   * [5-1 DFS 예제](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/05.%20DFS%20BFS/5-1%20DFS%20예제.md)
   * [5-2 BFS 예제](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/05.%20DFS%20BFS/5-2%20BFS%20예제.md)
-  
+  * [5-3 음료수 얼려 먹기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/05.%20DFS%20BFS/5-3%20음료수%20얼려%20먹기.md)
 
 * [11. 그리디 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/11.%20그리디%20문제)
   * [11-1 모험가길드](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-1%20모험가길드.md)
