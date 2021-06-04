@@ -13,8 +13,8 @@
   * [4-4 게임 개발](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/04.%20구현/4-4%20게임%20개발.md)
 
 * [05. DFS BFS](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/05.%20DFS%20BFS)
-  * [5-1 상하좌우](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/05.%20DFS%20BFS/5-1%20DFS%20예제.md)
-  * [5-2 시각](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/05.%20DFS%20BFS/5-2%20BFS%20예제.md)
+  * [5-1 DFS 예제](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/05.%20DFS%20BFS/5-1%20DFS%20예제.md)
+  * [5-2 BFS 예제](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/05.%20DFS%20BFS/5-2%20BFS%20예제.md)
   
 
 * [11. 그리디 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/11.%20그리디%20문제)
