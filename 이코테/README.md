@@ -34,3 +34,6 @@
   * [12-5 뱀](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-5%20뱀.md)
   * [12-6 치킨 배달](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-6%20치킨%20배달.md)
   * [12-7 외벽 점검](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-7%20외벽%20점검.md)
+
+* [13. DFS BFS 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/13.%20DFS%20BFS%20문제)
+  * [13-1 럭키 스트레이트](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-1%20특정%20거리의%20도시%20찾기.md)
