@@ -36,4 +36,7 @@
   * [12-7 외벽 점검](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-7%20외벽%20점검.md)
 
 * [13. DFS BFS 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/13.%20DFS%20BFS%20문제)
-  * [13-1 럭키 스트레이트](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-1%20특정%20거리의%20도시%20찾기.md)
+  * [13-1 특정 거리의 도시 찾기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-1%20특정%20거리의%20도시%20찾기.md)
+  * [13-2 연구소](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-2%20연구소.md)
+  * [13-3 경쟁적 전염](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-3%20경쟁적%20전염.md)
+  * [13-4 괄호 변환](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-4%20괄혼%20변환.md)
