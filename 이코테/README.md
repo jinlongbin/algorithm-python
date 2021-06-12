@@ -44,3 +44,4 @@
   * [13-5 괄호 변환](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-5%20연산자%20끼워넣기.md)
   * [13-6 감시 피하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-6%20감시%20파하기.md)
   * [13-7 인구 이동](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-7%20인구%20이동.md)
+  * [13-8 블록 이동하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-8%20블록%20이동하기.md)
