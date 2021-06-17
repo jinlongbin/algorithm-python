@@ -18,6 +18,15 @@
   * [5-3 음료수 얼려 먹기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/05.%20DFS%20BFS/5-3%20음료수%20얼려%20먹기.md)
   * [5-4 미로 탈출](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/05.%20DFS%20BFS/5-4%20미로%20탈출.md)
 
+* [06. 정렬](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/06.%20정렬)
+  * [6-1 선택 정렬](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/06.%20정렬/6-1%20선택%20정렬.md)
+  * [6-2 삽입 정렬](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/06.%20정렬/6-2%20삽입%20정렬.md)
+  * [6-3 퀵 정렬](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/06.%20정렬/6-3%20퀵%20정렬.md)
+  * [6-4 계수 정렬](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/06.%20정렬/6-4%20계수%20정렬.md)
+  * [6-5 위에서 아래로](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/06.%20정렬/6-5%20위에서%20아래로.md)
+  * [6-6 성적이 낮은 순서로 학생 출력하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/06.%20정렬/6-6%20성적이%20낮은%20순서로%20학생%20출력하기.md)
+  * [6-7 두 배열의 원소 교체](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/06.%20정렬/6-7%20두%20배열의%20원소%20교체.md)
+
 * [11. 그리디 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/11.%20그리디%20문제)
   * [11-1 모험가길드](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-1%20모험가길드.md)
   * [11-2 곱하기 혹은 더하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-2%20곱하기%20혹은%20더하기.md)
