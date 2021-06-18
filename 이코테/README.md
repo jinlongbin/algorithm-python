@@ -54,3 +54,9 @@
   * [13-6 감시 피하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-6%20감시%20파하기.md)
   * [13-7 인구 이동](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-7%20인구%20이동.md)
   * [13-8 블록 이동하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/13.%20DFS%20BFS%20문제/13-8%20블록%20이동하기.md)
+
+* [14. 정렬 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/14.%20정렬%20문제)
+  * [14-1 국영수](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/14.%20정렬%20문제/14-1%20국영수.md)
+  * [14-2 안테나](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/14.%20정렬%20문제/14-2%20안테나.md)
+  * [14-3 실패율](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/14.%20정렬%20문제/14-3%20실패율.md)
+  * [14-4 카드 정렬하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/14.%20정렬%20문제/14-4%20카드%20정렬하기.md)
