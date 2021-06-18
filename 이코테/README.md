@@ -27,6 +27,10 @@
   * [6-6 성적이 낮은 순서로 학생 출력하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/06.%20정렬/6-6%20성적이%20낮은%20순서로%20학생%20출력하기.md)
   * [6-7 두 배열의 원소 교체](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/06.%20정렬/6-7%20두%20배열의%20원소%20교체.md)
 
+* [07. 이진 탐색](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/07.%20이진%20탐색)
+  *  [7-1 이진 탐색](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/07.%20이진%20탐색/7-1%20이진%20탐색.md)
+  *  [7-2 부품 찾기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/07.%20이진%20탐색/7-2%20부품%20찾기.md)
+
 * [11. 그리디 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/11.%20그리디%20문제)
   * [11-1 모험가길드](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-1%20모험가길드.md)
   * [11-2 곱하기 혹은 더하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-2%20곱하기%20혹은%20더하기.md)
@@ -39,7 +43,7 @@
   * [12-1 럭키 스트레이트](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-1%20럭키%20스트레이트.md)
   * [12-2 문자열 재정렬](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-2%20문자열%20재정렬.md)
   * [12-3 문자열 압축](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-3%20문자열%20압축.md)
-  * [12-4 문자열 압축](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-4%20자물쇠와%20열쇠.md)
+  * [12-4 자물쇠와 열쇠](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-4%20자물쇠와%20열쇠.md)
   * [12-5 뱀](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-5%20뱀.md)
   * [12-6 기둥과 보 설치](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-6%20기둥과%20보%20설치.md)
   * [12-7 치킨 배달](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/12.%20구현%20문제/12-7%20치킨%20배달.md)
