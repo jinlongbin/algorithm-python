@@ -30,6 +30,7 @@
 * [07. 이진 탐색](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/07.%20이진%20탐색)
   *  [7-1 이진 탐색](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/07.%20이진%20탐색/7-1%20이진%20탐색.md)
   *  [7-2 부품 찾기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/07.%20이진%20탐색/7-2%20부품%20찾기.md)
+  *  [7-3 떡볶이 떡 만들기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/07.%20이진%20탐색/7-3%20떡볶이%20떡%20만들기.md)
 
 * [11. 그리디 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/11.%20그리디%20문제)
   * [11-1 모험가길드](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-1%20모험가길드.md)
