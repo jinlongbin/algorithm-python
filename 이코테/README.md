@@ -35,6 +35,9 @@
 * [08. 다이나믹 프로그래밍](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/08.%20다이나믹%20프로그래밍)
   * [8-1 피보나치 수열](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/08.%20다이나믹%20프로그래밍/8-1%20피보나치%20수열.md)
   * [8-2 1로 만들기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/08.%20다이나믹%20프로그래밍/8-2%201로%20만들기.md)
+  * [8-3 개미 전사](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/08.%20다이나믹%20프로그래밍/8-3%20개미%20전사.md)
+  * [8-4 바닥 공사](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/08.%20다이나믹%20프로그래밍/8-4%20바닥%20공사.md)
+  * [8-5 효율적인 화폐 구성](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/08.%20다이나믹%20프로그래밍/8-5%20효율적인%20화폐%20구성.md)
 
 * [11. 그리디 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/11.%20그리디%20문제)
   * [11-1 모험가길드](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/11.%20그리디%20문제/11-1%20모험가길드.md)
