@@ -78,3 +78,10 @@
   * [15-2 고정점 찾기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/15.%20이진%20탐색%20문제/15-2%20고정점%20찾기.md)
   * [15-3 공유기 설치](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/15.%20이진%20탐색%20문제/15-3%20공유기%20설치.md)
   * [15-4 가사 검색](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/15.%20이진%20탐색%20문제/15-4%20가사%20검색.md)
+
+* [16. 다이나믹 프로그래밍 문제](https://github.com/jinlongbin/algorithm-python/tree/main/이코테/16.%20다이나믹%20프로그래밍%20문제)
+  * [16-1 금광](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/16.%20다이나믹%20프로그래밍%20문제/16-1%20금광.md)
+  * [16-2 정수 삼각형](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/16.%20다이나믹%20프로그래밍%20문제/16-2%20정수%20삼각형.md)
+  * [16-3 퇴사](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/16.%20다이나믹%20프로그래밍%20문제/16-3%20퇴사.md)
+  * [16-4 병사 배치하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/16.%20다이나믹%20프로그래밍%20문제/16-4%20병사%20배치하기.md)
+  * [16-5 못생긴 수](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/16.%20다이나믹%20프로그래밍%20문제/16-5%20못생긴%20수.md)
