@@ -85,3 +85,4 @@
   * [16-3 퇴사](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/16.%20다이나믹%20프로그래밍%20문제/16-3%20퇴사.md)
   * [16-4 병사 배치하기](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/16.%20다이나믹%20프로그래밍%20문제/16-4%20병사%20배치하기.md)
   * [16-5 못생긴 수](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/16.%20다이나믹%20프로그래밍%20문제/16-5%20못생긴%20수.md)
+  * [16-6 편집 거리](https://github.com/jinlongbin/algorithm-python/blob/main/이코테/16.%20다이나믹%20프로그래밍%20문제/16-6%20편집%20거리.md)
